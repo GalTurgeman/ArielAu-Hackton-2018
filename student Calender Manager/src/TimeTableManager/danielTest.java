@@ -7,6 +7,7 @@ public class danielTest {
 		System.out.println("fix2");
 		System.out.println("fix3");
 		System.out.println("gal");
+		System.out.println("Tom");
 	}
 
 }
