@@ -8,13 +8,14 @@ public class Schedule {
 	ArrayList<Restriction> _restrictions;
 	double grade;
 	
-	Schedule(ArrayList<ArrayList<Event>> _table, ArrayList<Restriction> _restriction) {
+	Schedule(ArrayList<ArrayList<Event>> table, ArrayList<Restriction> restriction) {
 		this._table = new ArrayList<ArrayList<Event>>(_table);
 		this._restrictions = new Array<Restriction>(_restriction);
-		grade = 0;//
+		grade = 0;
+		calcGrade();
 	}
 	
-	void calcGrade() {
+	private void calcGrade() {
 		for(Restriction restriction : _restrictions) {
 			grade += restriction.calcGrade();
 		}
