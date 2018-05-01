@@ -11,7 +11,7 @@ public class Schedule {
 	Schedule(ArrayList<ArrayList<Event>> _table, ArrayList<Restriction> _restriction) {
 		this._table = new ArrayList<ArrayList<Event>>(_table);
 		this._restrictions = new Array<Restriction>(_restriction);
-		grade = 0;
+		grade = 0;//
 	}
 	
 	void calcGrade() {
