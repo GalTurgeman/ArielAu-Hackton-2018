@@ -8,6 +8,5 @@ public abstract class Event {
 	
 	abstract public String toIcal();
 	abstract double calcGrade();
-	
 	//
 }
