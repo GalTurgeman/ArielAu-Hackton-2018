@@ -34,6 +34,34 @@ public abstract class Event implements Comparable<Event> {
 
 	}
 
+	public String get_name() {
+		return _name;
+	}
+
+	public void set_name(String _name) {
+		this._name = _name;
+	}
+
+	public simpleTime get_startTime() {
+		return _startTime;
+	}
+
+	public void set_startTime(simpleTime _startTime) {
+		this._startTime = _startTime;
+	}
+
+	public simpleTime get_endTime() {
+		return _endTime;
+	}
+
+	public void set_endTime(simpleTime _endTime) {
+		this._endTime = _endTime;
+	}
+
+	public void set_day(int _day) {
+		this._day = _day;
+	}
+
 	abstract public String toIcal();
 	abstract double calcGrade();
 	abstract boolean betterEvent(Event other);
