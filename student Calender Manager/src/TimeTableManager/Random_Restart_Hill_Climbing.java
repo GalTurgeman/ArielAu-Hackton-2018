@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 public class Random_Restart_Hill_Climbing {
 
-    public static Schedule computeBestSchedule(Schedule state){
+    public static Schedule computeBestSchedule(Schedule state) throws Exception{
         long startTime = System.currentTimeMillis();
         long runningTime = 0;
         Schedule bestStateFound = state;
@@ -40,12 +40,12 @@ public class Random_Restart_Hill_Climbing {
                 }
             }
             runningTime = (System.currentTimeMillis() - startTime) / 60000;
-            state = DB.getInstance().randomSchedule();
+            state = DB.getInstance().randomSchedule(state);
         }
         return bestStateFound;
     }
 
-    private static PriorityQueue<Schedule> generateScheduleNeighbours(Schedule state){
+    private static PriorityQueue<Schedule> generateScheduleNeighbours(Schedule state) throws Exception {
         PriorityQueue<Schedule> neighbours = new PriorityQueue<>();
         for (Event event : state.getAllEvents()) {
             for (Event eventToSwapWith : DB.getInstance().getSimilarEvents(event)) {

@@ -5,19 +5,35 @@ import java.util.PriorityQueue;
 
 public class Schedule implements Comparable<Schedule> {
 
-	ArrayList<PriorityQueue<Event>> _table;
-	ArrayList<PriorityQueue<Event>> _validateTable;
-	ArrayList<Restriction> _restrictions;
-	double grade;
+	private ArrayList<PriorityQueue<Event>> _table;
+	private ArrayList<PriorityQueue<Event>> _validateTable;
+	private ArrayList<Restriction> _restrictions;
+	private double grade;
 
-	Schedule(ArrayList<PriorityQueue<Event>> table, ArrayList<Restriction> restriction) {
+	public Schedule(ArrayList<PriorityQueue<Event>> table, ArrayList<Restriction> restriction) {
 		this._table = new ArrayList<PriorityQueue<Event>>(_table);
 		this._restrictions = new ArrayList<Restriction>(restriction);
 		grade = 0;
 		calcGrade();
 	}
 
-	private void calcGrade() {
+	public Schedule(Schedule copyFromSched) {
+		this._restrictions = copyFromSched._restrictions;
+		ArrayList<PriorityQueue<Event>> newTable = new ArrayList<>();
+		for (PriorityQueue<Event> queue : copyFromSched._table){
+			PriorityQueue<Event> newQueue = new PriorityQueue<>();
+			newTable.add(newQueue);
+			for (Event event : queue){
+				newQueue.add(event);
+			}
+		}
+		this._table = newTable;
+        this.grade = copyFromSched.grade;
+		this._validateTable = copyFromSched._validateTable;
+	}
+
+
+		private void calcGrade() {
 		for(Restriction restriction : _restrictions) {
 			grade += restriction.calcGrade();
 		}
@@ -56,7 +72,7 @@ public class Schedule implements Comparable<Schedule> {
 				if(Event.doEventsCollide(temp, day.peek())) {
 					if(temp.betterEvent(day.peek())) {
 						day.remove(day.remove());
-						day.add(temp)
+						day.add(temp);
 					}					
 				}
 				else {
@@ -73,4 +89,19 @@ public class Schedule implements Comparable<Schedule> {
 		return 0;
 	}
 
+	public ArrayList<PriorityQueue<Event>> get_table() {
+		return _table;
+	}
+
+	public ArrayList<PriorityQueue<Event>> get_validateTable() {
+		return _validateTable;
+	}
+
+	public ArrayList<Restriction> get_restrictions() {
+		return _restrictions;
+	}
+
+	public double getGrade() {
+		return grade;
+	}
 }
