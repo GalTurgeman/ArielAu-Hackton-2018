@@ -32,12 +32,16 @@ public class Random_Restart_Hill_Climbing {
                 bestNeighbour = neighbours.poll();
                 if (bestNeighbour.compareTo(state) < 0) {
                     isOnTop = true;
+
                 } else if (bestNeighbour.compareTo(state) == 0) {
                     bestStateFound = bestNeighbour;
                     sameGradeCounter++;
+
                 } else {
+
                     bestStateFound = bestNeighbour;
                 }
+
             }
             runningTime = (System.currentTimeMillis() - startTime) / 60000;
             state = DB.getInstance().randomSchedule(state);
@@ -46,6 +50,8 @@ public class Random_Restart_Hill_Climbing {
     }
 
     private static PriorityQueue<Schedule> generateScheduleNeighbours(Schedule state) throws Exception {
+        System.out.println("generateScheduleNeighbours");
+
         PriorityQueue<Schedule> neighbours = new PriorityQueue<>();
         for (Event event : state.getAllEvents()) {
             for (Event eventToSwapWith : DB.getInstance().getSimilarEvents(event)) {

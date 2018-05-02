@@ -3,6 +3,8 @@ package TimeTableManager;
 import java.util.ArrayList;
 import java.util.PriorityQueue;
 
+import javafx.scene.control.Tab;
+
 public class Schedule implements Comparable<Schedule> {
 
 	private ArrayList<PriorityQueue<Event>> _table;
@@ -11,7 +13,7 @@ public class Schedule implements Comparable<Schedule> {
 	private double grade;
 
 	public Schedule(ArrayList<PriorityQueue<Event>> table, ArrayList<Restriction> restriction) {
-		this._table = new ArrayList<PriorityQueue<Event>>(_table);
+		this._table = table;//new ArrayList<PriorityQueue<Event>>(_table);
 		this._restrictions = new ArrayList<Restriction>(restriction);
 		grade = 0;
 		calcGrade();
@@ -43,16 +45,16 @@ public class Schedule implements Comparable<Schedule> {
 	}
 
 	public void swapEvent(Event toSearchAndRemove, Event toReplace) {
-		int dayIndex = 0;
 		for (PriorityQueue<Event> day : _table) {
-			if(dayIndex == toReplace.get_day())
-				day.add(toReplace);
-			for (Event event : day) {
-				if(toSearchAndRemove == event) 
-					day.remove(event);
+			if (day.contains(toSearchAndRemove)) {
+				day.remove(toSearchAndRemove);
+				break;
 			}
-			dayIndex++;
 		}
+		
+		_table.get(toReplace.get_day()-1).add(toReplace);
+		
+		
 	}
 
 	public ArrayList<Event> getAllEvents() {
