@@ -2,6 +2,7 @@ package TimeTableManager;
 
 import java.util.ArrayList;
 import java.util.PriorityQueue;
+import java.util.Random;
 
 public class DB {
 
@@ -33,8 +34,20 @@ public class DB {
         throw new Exception("Error finding similar events in DB!");
     }
 
-    public Schedule randomSchedule(Schedule schedToCopy){
+    public Schedule randomSchedule(Schedule schedToCopy) throws Exception {
         Schedule randomSchedule = new Schedule(schedToCopy);
-        for (PriorityQueue<Event> )
+        for (PriorityQueue<Event> queue : randomSchedule.get_table()){
+            for (Event event : queue){
+                ArrayList<Event> similarEvents = getSimilarEvents(event);
+
+                Random r = new Random();
+                int Low = 0;
+                int High = similarEvents.size();
+                int Result = r.nextInt(High-Low) + Low;
+
+                Event newEvent = similarEvents.get(Result);
+
+            }
+        }
     }
 }
