@@ -3,11 +3,12 @@ package TimeTableManager;
 import java.util.ArrayList;
 
 public abstract class Restriction {
-	private double _weight;
-    private ArrayList<ArrayList<Event>> _table;
-    public Restriction(ArrayList<ArrayList<Event>> table, double weight){
+	protected double _weight;
+    protected Schedule _sched;
+
+    public Restriction(Schedule sched, double weight){
         _weight = weight;
-        _table = table;
+        _sched = sched;
     }
 	public abstract double calcGrade();
 
