@@ -23,7 +23,7 @@ public class Schedule implements Comparable<Schedule> {
 		}
 	}
 
-	public void swapEvenet(Event toSearchAndRemove, Event toReplace) {
+	public void swapEvent(Event toSearchAndRemove, Event toReplace) {
 		int dayIndex = 0;
 		for (PriorityQueue<Event> day : _table) {
 			if(dayIndex == toReplace.get_day())
