@@ -1,0 +1,853 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<table cellspacing="0" rules="all" border="1" id="ctl00_idMasterContentPlaceHolder_grdKursim_ctl00" style="width:100%;border-collapse:collapse;table-layout:fixed;empty-cells:show;">
+			<caption class="GridCaption_Rashim">רשימת שעורים מתאימים  במסלול מדעי הטבע  במגמת מדעי המחשב ומתמטיקה  </caption>
+<colgroup>
+		<col width="20px"  />
+		<col width="20px"  />
+		<col />
+		<col width="11%"  />
+		<col width="25%"  />
+		<col width="14%"  />
+		<col width="5%"  />
+		<col width="12%"  />
+		<col />
+		<col width="7%"  />
+		<col width="5%"  />
+		<col />
+	</colgroup>
+<thead>
+		<tr>
+			<th scope="col">&nbsp;</th><th scope="col">&nbsp;</th><th scope="col">.</th><th scope="col">מספר שיעור</th><th scope="col">שם השיעור</th><th scope="col">שם מרצה </th><th scope="col">סמסטר</th><th scope="col">מועד</th><th scope="col">שנה פדגוגית</th><th scope="col">נ"ז</th><th scope="col">שעות</th><th scope="col">מקומות</th>
+		</tr>
+	</thead><tbody>
+	<tr>
+		<td>&nbsp;</td><td colspan="11">מסלול: מדעי הטבע</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td colspan="10">תחום: מורשת ישראל</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1310110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יסודות הגיאוגרפיה הפיזית של ארץ ישראל א'</td><td>ד"ר אקרמן אורן</td><td>א</td><td>א 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1171910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מאדם עד נוח</td><td>ד"ר רוטשטיין דוד</td><td>א</td><td>א 19:00 21:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">57</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1311110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אריכאולוגיה של השדה</td><td>ד"ר אדלר יונתן</td><td>א</td><td>ב 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1120910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שבת ומועד</td><td>ד"ר צור אורי</td><td>א</td><td>ב 17:00 21:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1122310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תרגומי תנ"ך</td><td>פרופ' אנוך ראובן</td><td>א</td><td>ב 19:00 21:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">30</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1118010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">טכנולוגיות קדומות בתקופות הברונזה והברזל</td><td>פרופ' בן שלמה דוד</td><td>א</td><td>ג 13:00 15:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1118410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">רפואה וחומרי מרפא בא"י הקדומה</td><td>פרופ' שמש אברהם</td><td>א</td><td>ג 13:00 17:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1115910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיאולוגיה והלכה-א'</td><td>ד"ר אדלר יונתן</td><td>א</td><td>ג 15:00 17:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1116010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">בית הכנסת בארץ- ישראל בעת העתיקה-א'</td><td>ד"ר אדלר יונתן</td><td>א</td><td>ג 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1183310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא להגות היהודית בעת החדשה</td><td>ד"ר סיידלר מאיר</td><td>א</td><td>ד 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1182610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">בין פילוסוף, נביא ומשורר: הגותו של ר' יהודה הלוי</td><td>ד"ר רביצקי אבירם</td><td>א</td><td>ד 13:00 15:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">24</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1310710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארץ ישראל בימי הביניים ותושביה המוסלמים והנוצרים</td><td>ד"ר יהלום שלם</td><td>א</td><td>ד 15:00 17:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1182210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הפילוסופיה של ההלכה</td><td>ד"ר רביצקי אבירם</td><td>א</td><td>ד 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">71</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1165010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות המזון והתזונה</td><td>פרופ' שמש אברהם</td><td>א</td><td>ד 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1164810-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יהודים בתרבות ומדע בברית המועצות</td><td>ד"ר רימון הלנה</td><td>א</td><td>ד 17:00 21:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">30</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1173210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">עידן האימפריות:א"י מתחת שלטון בבל ופרס</td><td>ד"ר גורדין שי </td><td>א</td><td>ה 09:00 11:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">68</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1173110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ספרות המקרא במרחב ההיסטורי-גיאופוליטי במזרח התיכון</td><td>ד"ר גורדין שי </td><td>א</td><td>ה 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">72</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1160610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">האישה בישוב היהודי בעת החדשה</td><td>פרופ' מקובצקי לאה</td><td>א</td><td>ה 15:00 17:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">72</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1182410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מה אפשר לומר על א-לוהים: על תורות התארים בהגות היהודית</td><td>ד"ר רביצקי אבירם</td><td>א</td><td>ה 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">70</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1182510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מיסטיקה, מדע וחילוניות במשנת הרב קוק</td><td>ד"ר רביצקי אבירם</td><td>א</td><td>ה 19:00 21:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">85</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1160110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">התנועה הציונית בבריה"מ</td><td>פרופ' אנוך ראובן</td><td>א</td><td>ו 08:00 12:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">72</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1183110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הגותו של הרמב"ם</td><td>ד"ר סיידלר מאיר</td><td>א</td><td>ו 10:00 12:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">40</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1181810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">עולמה של היהדות - רעיונות יסוד</td><td>ד"ר סיידלר מאיר</td><td>א</td><td>ו 12:00 14:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1311210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יסודות הגיאוגרפיה הפיזית של ארץ ישראל ב'</td><td>ד"ר אקרמן אורן</td><td>ב</td><td>א 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1172910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דמויות נשים במקרא א' </td><td>ד"ר רוטשטיין דוד</td><td>ב</td><td>א 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">36</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1173010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דמויות נשים במקרא ב'</td><td>ד"ר רוטשטיין דוד</td><td>ב</td><td>א 19:00 21:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">81</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1169410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">רפואה והלכה</td><td>ד"ר משיח אמיר</td><td>ב</td><td>ב 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1182710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מחשבת התפילה</td><td>ד"ר משיח אמיר</td><td>ב</td><td>ב 19:00 21:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1117910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הפניקים</td><td>פרופ' שי יצחק</td><td>ב</td><td>ג 09:00 11:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1118210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הפלשתים  וגויי הים</td><td>פרופ' שי יצחק</td><td>ב</td><td>ג 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1120710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סוגיות העוסקות בנושאים אקטואליים</td><td>ד"ר צור אורי</td><td>ב</td><td>ג 13:00 17:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1169310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תגובות היהודים לשואה</td><td>ד"ר פפרמן קיריל</td><td>ב</td><td>ד 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">21</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1144110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תחנות ציוניות בשירה העברית של המאה העשרים</td><td>ד"ר מצוב-כהן עופרה</td><td>ב</td><td>ד 11:00 13:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">79</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1310810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארץ ישראל וספרות ההשכלה</td><td>ד"ר רביצקי אבירם</td><td>ב</td><td>ד 13:00 15:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">26</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1114810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">האדם ובעלי חיים בא"י וסביבותיה</td><td>פרופ' שמש אברהם</td><td>ב</td><td>ד 15:00 17:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1118510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חיי יום יום בתקופת המשנה והתלמוד</td><td>פרופ' שמש אברהם</td><td>ב</td><td>ה 09:00 13:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1173310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ממלכות ישראל וארם בין עלייתה לשקיעתה של אימפריית אשור</td><td>ד"ר גורדין שי </td><td>ב</td><td>ה 13:00 15:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">39</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1122010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אישות-תלמוד,הלכה ומנהג</td><td>ד"ר צור אורי</td><td>ב</td><td>ה 13:00 17:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1182110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הנבואה בהגות היהודית לדורותיה</td><td>ד"ר רביצקי אבירם</td><td>ב</td><td>ה 17:00 19:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">82</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1181910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארץ ישראל בהגות היהודית בעת החדשה</td><td>ד"ר סיידלר מאיר</td><td>ב</td><td>ו 12:00 14:00</td><td> </td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1164810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יהודים בתרבות ומדע בברית המועצות</td><td>ד"ר רימון הלנה</td><td>ק</td><td>ב 09:00 15:00</td><td> </td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 07.11.17 ו-21.11.17</td><td>ד"ר לוי רייפר איילת</td><td>א</td><td>ג  </td><td>ב</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 04.01.18 ו-11.01.18</td><td>ד"ר לוי רייפר איילת</td><td>א</td><td>ה  </td><td>ב</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 29.4.18 ו- 17.5.18</td><td>ד"ר אורטנר רן</td><td>ב</td><td>א  </td><td>ב</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-7</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 22.5.18 ו- 5.6.18</td><td>ד"ר לוי רייפר איילת</td><td>ב</td><td>ג  </td><td>ב</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-8</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 16.5.18 ו- 30.5.18</td><td>ד"ר אקרמן אורן</td><td>ב</td><td>ד  </td><td>ב</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-6</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 17.5.18 ו-31.5.18</td><td>ד"ר לוי רייפר איילת</td><td>ב</td><td>ה  </td><td>ב</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לימודי הגליל וסביבותיו</td><td>ד"ר אקרמן אורן</td><td>א</td><td>א 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא ליצירת עגנון</td><td>ד"ר מצוב-כהן עופרה</td><td>א</td><td>א 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">81</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לשירה</td><td>פרופ' ברתנא אורציון</td><td>א</td><td>א 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">26</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מדינת ישראל ממלחמת ששת הימים לראשית המילניום</td><td>פרופ' גולדשטיין יוסי</td><td>א</td><td>א 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יסודות הסקר הארכיאולוגי</td><td>פרופ' שי יצחק</td><td>א</td><td>א 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">26</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1610310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות עם ישראל מגירוש ספרד ועד 1800</td><td>ד"ר אחיעזר גולדה</td><td>א</td><td>א 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">31</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1310210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לאריכאולוגיה של ארץ ישראל בתקופות הפרוטו-היסטוריות-מהתקופה הניאוליתית ועד לתקופת הברונזה הקדומה</td><td>פרופ' בן שלמה דוד</td><td>א</td><td>א 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1620210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות הציונות</td><td>פרופ' גולדשטיין יוסי</td><td>א</td><td>א 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">12</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1620810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">המדינה שבדרך-מתוקשב</td><td>ד"ר גלעדי דבורה</td><td>א</td><td>א 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לארכיאולוגיה של ארץ ישראל בתקופה ההלניסיטית ובתקופה הרומית הקדומה</td><td>ד"ר אדלר יונתן</td><td>א</td><td>ב 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לסיפור החסידי</td><td>ד"ר הר שפי  אבישר</td><td>א</td><td>ב 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">65</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דת כמעצבת מרחב, ארץ ישראל כמקרה בוחן</td><td>ד"ר משיח אמיר</td><td>א</td><td>ב 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1430710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לסיפורי המדרש והאגדה</td><td>ד"ר הר שפי  אבישר</td><td>א</td><td>ב 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">71</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1610610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חברה ומשטר בא"י בשלהי התקופה העות'מאנית</td><td>ד"ר מרציאנו יואל</td><td>א</td><td>ב 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">57</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1670110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סוגיות נבחרות בשיחה ההלכתי של פסיקת רבני המאות 19-20</td><td>ד"ר משיח אמיר</td><td>א</td><td>ב 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1610210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתולדות היהודים בימי הביניים מראשית האסלאם ועד גרוש ספרד</td><td>ד"ר מרציאנו יואל</td><td>א</td><td>ב 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">59</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1620710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">רפורמים, קונסרבטיבים ואורתודוכסים ביהדות אמריקה</td><td>פרופ' מנור אהוד</td><td>א</td><td>ב 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">40</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1310510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מדינת ישראל בין מלחמת העצמאות למלחמת ששת הימים</td><td>פרופ' גולדשטיין יוסי</td><td>א</td><td>ב 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">14</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שירת ר' יהודה הלוי ובני זמנו</td><td>ד"ר מצוב-כהן עופרה</td><td>א</td><td>ב 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">86</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1371710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מקדשים ופולחן בא"י והמזרח הקדום מהאלף השלישי עד הראשון לפיה"ס</td><td>פרופ' בן שלמה דוד</td><td>א</td><td>ג 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1371510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חקר חומרים ושיטות מדעיות בארכיאולוגיה</td><td>ד"ר אליהו  עדי</td><td>א</td><td>ג 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1165610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מנהגי ישראל</td><td>ד"ר יהלום שלם</td><td>א</td><td>ג 17:00 21:00</td><td>רב שנתי</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 15.11.17 ו-29.11.17</td><td>ד"ר אקרמן אורן</td><td>א</td><td>ד  </td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1181610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לפילוסופיה היהודית מהעת העתיקה ועד לרמב"ם</td><td>ד"ר סיידלר מאיר</td><td>א</td><td>ד 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1611110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות האנטישמיות</td><td>ד"ר פפרמן קיריל</td><td>א</td><td>ד 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">17</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1611210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הנאציזם והשואה</td><td>ד"ר פפרמן קיריל</td><td>א</td><td>ד 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">44</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1164910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">כשרות המזון במטבח היהודי</td><td>פרופ' שמש אברהם</td><td>א</td><td>ד 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1129910-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סיור לימודי: תאריכים 23.11.17 ו-30.11.17</td><td>ד"ר אורטנר רן</td><td>א</td><td>ה  </td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1330110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ירושלים וסביבותיה, ימי המדינה</td><td>ד"ר אקרמן אורן</td><td>א</td><td>ה 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1620910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ישראל משנות החמישים ועד לשנות השבעים-מתוקשב</td><td>פרופ' גולדשטיין יוסי</td><td>ב</td><td>  </td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לימודי יהודה ושומרון</td><td>ד"ר אקרמן אורן</td><td>ב</td><td>א 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לסיפורת</td><td>פרופ' ברתנא אורציון</td><td>ב</td><td>א 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">69</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1420310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">פרו"ס: שירת חיים נחמן ביאליק </td><td>ד"ר קסט שילהב</td><td>ב</td><td>א 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1610410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתולדות עם ישראל בעת החדשה</td><td>פרופ' גולדשטיין יוסי</td><td>ב</td><td>א 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1310310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לאריכאולגויה של ארץ ישראל בתקופת המקרא- מתקופת הברונזה התיכונה ועד לסוף תקופת הברזל</td><td>פרופ' שי יצחק</td><td>ב</td><td>א 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1670610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות הזרמים והתנועות ביהדות מזרח אירופה</td><td>ד"ר אחיעזר גולדה</td><td>ב</td><td>א 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1621110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות יהודי האימפריה הרוסית:מתחום המושב עד המהפכה הבולשביקית(1791-1917)</td><td>ד"ר לוין ולדימיר</td><td>ב</td><td>א 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">62</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1320210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לארכיאולוגיה של ארץ ישראל בתקופה הרומית המאוחרת ובתקופה הביזנטית</td><td>ד"ר אדלר יונתן</td><td>ב</td><td>ב 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לספרות ההשכלה העברית </td><td>פרופ' ברתנא אורציון</td><td>ב</td><td>ב 09:00 11:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">88</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1610110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתולדות עם ישראל מאלכסנדר מוקדון ועד לחתימת התלמוד</td><td>ד"ר אדלר יונתן</td><td>ב</td><td>ב 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1611310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ההתפתחות החברתית והתרבותית של יהודי ארצות הברית (1700-1955)</td><td>פרופ' מנור אהוד</td><td>ב</td><td>ב 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1620410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תולדות היהודים בארצות האסלאם בעת החדשה א'</td><td>פרופ' מקובצקי לאה</td><td>ב</td><td>ב 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">17</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1311310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יחסה של ישראל למדינות ערב 1948-1967</td><td>פרופ' מנור אהוד</td><td>ב</td><td>ב 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">היבטים לשוניים, תחביר וניקוד כמפתח להבנת שירה</td><td>ד"ר מצוב-כהן עופרה</td><td>ב</td><td>ב 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">93</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1181510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">טעמי מצוות מהתקופה העתיקה עד לימי הביניים</td><td>ד"ר סיידלר מאיר</td><td>ב</td><td>ב 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1330310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יחסי ישראל ארצות הברית</td><td>פרופ' מנור אהוד</td><td>ב</td><td>ב 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1181410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">טעמי המצוות בהגות ימי הביניים והתקופה החדשה</td><td>ד"ר סיידלר מאיר</td><td>ב</td><td>ב 19:00 21:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1164710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הקשרים עם יהודי התפוצות לארץ ישראל בימי הביניים ובעת החדשה</td><td>ד"ר אחיעזר גולדה</td><td>ב</td><td>ג 17:00 21:00</td><td>רב שנתי</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1373210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הקרמיקה הקדומה של ארץ ישראל בתקופת המקרא</td><td>פרופ' שי יצחק</td><td>ב</td><td>ד 08:00 12:00</td><td>רב שנתי</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">39</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1371210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הכרת החי של ארץ ישראל</td><td>פרופ' שמש אברהם</td><td>ב</td><td>ד 13:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1621010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דרכה של יהודי גרמניה בעת החדשה</td><td>ד"ר ידידיה אסף</td><td>ב</td><td>ד 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1610510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יהודי מערב אירופה (הולנד, צרפת ואנגליה) בעת החדשה עד מלה"ע הראשונה</td><td>ד"ר ידידיה אסף</td><td>ב</td><td>ד 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1146010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">קריאה בסיפורים של רבי נחמן מברסלב</td><td>פרופ' ברתנא אורציון</td><td>ב</td><td>ה 11:00 13:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">62</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1173510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מהבריאה ועד האבות: ספר בראשית בראי מקורות חוץ-מיקראיים</td><td>ד"ר גורדין שי </td><td>ב</td><td>ה 15:00 17:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">51</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1330210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">יישוב, חברה וקהילה- היישוב הכפרי</td><td>ד"ר אקרמן אורן</td><td>ב</td><td>ה 17:00 19:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1183010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דת ומדע - בין מסורת ותבונה: ימי הביניים ועת החדשה</td><td>ד"ר רביצקי אבירם</td><td>ב</td><td>ה 19:00 21:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">74</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1082510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">בצאתי לקראתך- לקראתי מצאתיך- השירה העברית החדשה יוצאת לקראת השירה העברית של ימה"ב</td><td>ד"ר מצוב-כהן עופרה</td><td>ב</td><td>ו 08:00 10:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">30</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1183210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">בין עם ישראל לארצו-מהתנ"ך עד לסוף ימי הביניים</td><td>ד"ר סיידלר מאיר</td><td>ב</td><td>ו 10:00 12:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1372910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">המהפכה העירונית בדרום הלבנט בתקופת הברונזה</td><td>פרופ' בן שלמה דוד</td><td>ק</td><td>ג 09:00 12:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1373010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיאולוגיה, אתיקה ופוליטיקה</td><td>פרופ' בן שלמה דוד</td><td>ק</td><td>ג 12:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1183410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למיסטיקה יהודית- מימי הביניים ועד לעת החדשה</td><td>ד"ר שוחט רפאל</td><td>ק</td><td>ג 12:00 15:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">36</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1121810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סוגיות בכלכלה בראי ההלכה</td><td>ד"ר יהלום שלם</td><td>ק</td><td>ג 15:00 21:00</td><td>רב שנתי</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1371910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">התפתחות בית המגורים והתכון היישובי בימי קדם בא"י</td><td>פרופ' בן שלמה דוד</td><td>ק</td><td>ג 17:00 20:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1371610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">קשרי התרבות והמסחר במזרח התיכון באלף הראשון והשניי לפניה"ס</td><td>פרופ' בן שלמה דוד</td><td>ק</td><td>ד 09:00 12:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1410710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לסיפור המקראי </td><td>מר טרם נקבע </td><td>ק</td><td>ד 13:00 16:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">99</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1373110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ייצור ושימוש במתכות בארץ ישראל בעת העתיקה</td><td>ד"ר אליהו  עדי</td><td>ק</td><td>ד 17:00 20:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">43</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1183510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למיסטיקה יהודית-מן העת העתיקה ועד ימי הביניים</td><td>ד"ר שוחט רפאל</td><td>ק</td><td>ד 17:00 20:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">70</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>1420410-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">השירה העברית בשנות השלושים והארבעים של המאה העשרים</td><td>ד"ר רימון הלנה</td><td>ק</td><td>ה 09:00 12:00</td><td>רב שנתי</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">80</td>
+	</tr><tr>
+		<td>&nbsp;</td><td colspan="11">מסלול: מדעי המחשב ומתמטיקה</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td colspan="10">תחום: קורסי בחירה</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חקר ביצועים</td><td>ד"ר מור ברוך</td><td>ב</td><td>א 10:00 13:00</td><td>ב</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7081510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">נושאים מתקדמים בתורת הגרפים</td><td>ד"ר חורב אלעד</td><td>ב</td><td>א 13:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7079010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לנוירו-חישוביות</td><td>פרופ' מנביץ לרי</td><td>ב</td><td>ד 17:00 20:00</td><td>ב</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">19</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7060410-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דחיסת נתונים א'</td><td>פרופ' שפירא דנה</td><td>א</td><td>א 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7092910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמי ניווט ושיערוך מיקום</td><td>ד"ר יוזביץ רועי</td><td>א</td><td>א 13:00 16:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">למידה עמוקה ועיבוד שפות טבעיות</td><td>ד"ר עזריה עמוס יהודה</td><td>א</td><td>א 17:00 20:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061510-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">למידה עמוקה ועיבוד שפות טבעיות</td><td>ד"ר עזריה עמוס יהודה</td><td>א</td><td>ב 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7060410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דחיסת נתונים א'</td><td>פרופ' שפירא דנה</td><td>א</td><td>ג 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7060110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לקבלת החלטות אלגוריתמית </td><td>ד"ר חזון נועם</td><td>א</td><td>ד 15:00 18:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">14</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7091410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">כריית נתונים</td><td>ד"ר אופיר דן</td><td>א</td><td>ו 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7091210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">למידת מכונה</td><td>ד"ר גוטליב ליעד</td><td>ב</td><td>א 10:00 13:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7062010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תבניות עיצוב</td><td>ד"ר בן ניסן  מרים</td><td>ב</td><td>א 10:00 13:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7081510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">נושאים מתקדמים בתורת הגרפים</td><td>ד"ר חורב אלעד</td><td>ב</td><td>א 13:00 17:00</td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">רובוטים אוטונומיים</td><td>פרופ' בן משה בועז</td><td>ב</td><td>ב 14:00 16:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">27</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7060510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">דחיסת נתונים ב'</td><td>פרופ' שפירא דנה</td><td>ב</td><td>ג 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">פתרון בעיות באמצעות חיפוש</td><td>ד"ר חזון נועם</td><td>ב</td><td>ג 12:00 15:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">12</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7090110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">גיאומטריה חישובית</td><td>ד"ר ניבש גבריאל</td><td>ב</td><td>ד 10:00 13:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">30</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">עיצוב ופיתוח פתרונות IoT</td><td>מר זגורי יוסי</td><td>ב</td><td>ד 17:00 20:00</td><td>ג</td><td style="mso-number-format:0;">03.00</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7061721-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">רובוטים אוטונומיים- תרגיל</td><td>מר רוזנברג איתיאל</td><td>ב</td><td>ב 16:00 18:00</td><td>רב שנתי</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">17</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td colspan="10">תחום: קורסי חובה</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב</td><td>ד"ר חזון נועם</td><td>א</td><td>א 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017010-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות</td><td>גב' בלל יעל</td><td>א</td><td>א 11:00 13:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017010-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות</td><td>ד"ר לביא אודי</td><td>א</td><td>א 11:00 13:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017021-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות- תרגיל</td><td>מר מור דורון</td><td>א</td><td>א 13:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017022-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות- תרגיל</td><td>גב' בלל יעל</td><td>א</td><td>א 13:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015721-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' לנדאו יעל</td><td>א</td><td>א 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015722-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>מר גולן נהור</td><td>א</td><td>א 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017410-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית</td><td>ד"ר חורב אלעד</td><td>א</td><td>א 14:00 17:00</td><td>א</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016210-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1</td><td>ד"ר שמי זיו</td><td>א</td><td>א 17:00 21:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016221-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1-תרגיל</td><td>מר כדראוי אור</td><td>א</td><td>א 21:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית</td><td>ד"ר חורב אלעד</td><td>א</td><td>ב 09:00 12:00</td><td>א</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015710-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב</td><td>ד"ר גוטליב ליעד</td><td>א</td><td>ב 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015722-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' עוזרי שירה</td><td>א</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">20</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות</td><td>ד"ר בלל נצח</td><td>א</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015721-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' עוזרי שירה</td><td>א</td><td>ב 15:00 17:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017021-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ב 16:00 17:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות</td><td>ד"ר ירדן עדי</td><td>א</td><td>ג 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015710-7</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב</td><td>מר עסלי סעיד</td><td>א</td><td>ג 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016521-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות- תרגיל</td><td>מר כשרים ברוך</td><td>א</td><td>ג 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016522-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות- תרגיל</td><td>גב' זר אחנעם</td><td>א</td><td>ג 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016523-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ג 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017421-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית- תרגיל</td><td>מר אלון  בר</td><td>א</td><td>ג 15:00 16:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017422-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ג 15:00 16:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017423-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ג 15:00 16:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016510-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות</td><td>ד"ר שמי זיו</td><td>א</td><td>ג 17:00 21:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016321-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>גב' דובמן מרגריטה</td><td>א</td><td>ג 21:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016522-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות- תרגיל</td><td>גב' זר אחנעם</td><td>א</td><td>ג 21:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015710-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב</td><td>ד"ר גוטליב ליעד</td><td>א</td><td>ד 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015721-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' קוזנצוב ליובוב</td><td>א</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015722-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' לנדאו יעל</td><td>א</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1</td><td>ד"ר מינקין לאוניד</td><td>א</td><td>ה 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015721-7</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' פרבר אנה</td><td>א</td><td>ה 12:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016221-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1-תרגיל</td><td>מר כדראוי אור</td><td>א</td><td>ה 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016222-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1-תרגיל</td><td>מר פורמן יבגני</td><td>א</td><td>ה 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016223-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1-תרגיל</td><td>גב' ברון  יפעת מרגלית </td><td>א</td><td>ה 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017010-7</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות</td><td>ד"ר לביא אודי</td><td>א</td><td>ה 14:00 16:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017421-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית- תרגיל</td><td>מר אלון  בר</td><td>א</td><td>ה 16:00 17:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017422-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ה 16:00 17:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017423-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תורת המספרים אלגוריתמית- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ה 16:00 17:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017021-7</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ה 17:00 18:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017010-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות</td><td>מר מגורי אייל</td><td>א</td><td>ה 17:00 19:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017021-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות- תרגיל</td><td>מר מגורי אייל</td><td>א</td><td>ה 19:00 20:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017022-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות ספרתיות- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ה 19:00 20:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016521-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ה 20:00 21:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016222-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1-תרגיל</td><td>גב' דובמן מרגריטה</td><td>א</td><td>ה 21:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015710-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב</td><td>גב' איצקוביץ אליזבט</td><td>א</td><td>ו 08:00 12:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7015721-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לחישוב-תרגיל</td><td>גב' לנדאו יעל</td><td>א</td><td>ו 12:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016210-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1</td><td>ד"ר רסין אלכסנדר</td><td>ב</td><td>א 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">47</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016610-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים</td><td>פרופ' שפירא דנה</td><td>ב</td><td>א 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016221-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 1-תרגיל</td><td>מר גלגור רומן</td><td>ב</td><td>א 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016621-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר עסלי סעיד</td><td>ב</td><td>א 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016622-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר גרוס אריה מרדכי</td><td>ב</td><td>א 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012110-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1</td><td>ד"ר ליבוביץ רותי</td><td>ב</td><td>א 17:00 20:00</td><td>א</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012121-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1-תרגיל</td><td>מר סגל רן</td><td>ב</td><td>א 20:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012122-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1-תרגיל</td><td>גב' ידוובני ילנה</td><td>ב</td><td>א 20:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016310-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2</td><td>ד"ר רסין אלכסנדר</td><td>ב</td><td>ב 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">43</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב</td><td>ד"ר גונן מירה</td><td>ב</td><td>ב 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">32</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016321-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>מר קליינר לב</td><td>ב</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016322-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>מר פורמן יבגני</td><td>ב</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">22</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017521-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017522-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>גב' סבתו יעל</td><td>ב</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">17</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017523-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>גב' מוסטקיס רחל</td><td>ב</td><td>ב 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">15</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016521-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">לוגיקה ותורת הקבוצות- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ב 20:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1</td><td>פרופ' פליקר יובל</td><td>ב</td><td>ג 09:00 10:00</td><td>א</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">112</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016610-6</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים</td><td>ד"ר לביא אודי</td><td>ב</td><td>ג 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012121-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1-תרגיל</td><td>גב' תנעמי אביגיל</td><td>ב</td><td>ג 12:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012122-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1-תרגיל</td><td>מר פורמן יבגני</td><td>ב</td><td>ג 12:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7012123-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 1-תרגיל</td><td>גב' אברהם אורית</td><td>ב</td><td>ג 12:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016621-6</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>גב' פרבר אנה</td><td>ב</td><td>ג 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים</td><td>ד"ר יוזביץ רועי</td><td>ב</td><td>ג 14:00 16:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016622-6</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר עסלי סעיד</td><td>ב</td><td>ג 14:00 16:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ג 16:00 17:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017110-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים</td><td>ד"ר יוזביץ רועי</td><td>ב</td><td>ג 16:00 18:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017122-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ג 17:00 18:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר פלקסין אהוד</td><td>ב</td><td>ג 18:00 19:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017122-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ג 18:00 19:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016610-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים</td><td>ד"ר גוטליב ליעד</td><td>ב</td><td>ד 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016610-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים</td><td>גב' מרבלי רויטל</td><td>ב</td><td>ד 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017510-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב</td><td>ד"ר גונן מירה</td><td>ב</td><td>ד 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">63</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016621-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר יטיב אריה</td><td>ב</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">9</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016621-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר גרוס אריה מרדכי</td><td>ב</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016622-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר עסלי סעיד</td><td>ב</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016622-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר לוי מעתוק עוז</td><td>ב</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017521-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>גב' סטרמן חרות</td><td>ב</td><td>ד 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017110-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים</td><td>ד"ר ויסברג פנחס</td><td>ב</td><td>ד 15:00 17:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ד 17:00 18:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017122-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ד 18:00 19:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2</td><td>ד"ר מינקין לאוניד</td><td>ב</td><td>ה 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">24</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016321-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>מר סגל רן</td><td>ב</td><td>ה 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">8</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016322-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>מר פורמן יבגני</td><td>ב</td><td>ה 13:00 15:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017110-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים</td><td>ד"ר ויסברג פנחס</td><td>ב</td><td>ה 15:00 17:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר פלקסין אהוד</td><td>ב</td><td>ה 17:00 18:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017110-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים</td><td>ד"ר ויסברג פנחס</td><td>ב</td><td>ה 17:00 19:00</td><td>א</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017122-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ה 18:00 19:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ה 19:00 20:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017122-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר פלקסין אהוד</td><td>ב</td><td>ה 19:00 20:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016610-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים</td><td>מר עסלי סעיד</td><td>ב</td><td>ו 08:00 12:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">22</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016621-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבני נתונים-תרגיל</td><td>מר כסיף אלירן</td><td>ב</td><td>ו 12:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017510-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב</td><td>ד"ר ניבש גבריאל</td><td>ק</td><td>א 17:00 21:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016310-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2</td><td>מר טרם נקבע </td><td>ק</td><td>ב 09:00 13:00</td><td>א</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">21</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017521-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>מר לוי גיל</td><td>ק</td><td>ג 19:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017522-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>גב' סרברו תמר</td><td>ק</td><td>ג 19:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017523-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנים דיסקרטיים למדעי המחשב-תרגיל</td><td>מר טרם נקבע </td><td>ק</td><td>ג 19:00 22:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016321-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>מר טרם נקבע </td><td>ק</td><td>ד 11:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016322-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2-תרגיל</td><td>מר טרם נקבע </td><td>ק</td><td>ד 11:00 14:00</td><td>א</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028521-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>גב' סטרמן חרות</td><td>א</td><td>א 09:00 11:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028310-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב</td><td>ד"ר דביר עמית זאב</td><td>א</td><td>א 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028510-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C</td><td>מר קאופמן  ערן</td><td>א</td><td>א 11:00 14:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028321-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב- תרגיל</td><td>גב' פרבר אנה</td><td>א</td><td>א 12:00 13:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029010-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1</td><td>ד"ר גונן מירה</td><td>א</td><td>א 14:00 16:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">15</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027010-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1</td><td>גב' איצקוביץ אליזבט</td><td>א</td><td>א 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">25</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028510-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C</td><td>מר קאופמן  ערן</td><td>א</td><td>א 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029022-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1 - תרגיל</td><td>מר מור דורון</td><td>א</td><td>א 16:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029021-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1- תרגיל</td><td>גב' סרברו תמר</td><td>א</td><td>א 16:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029010-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1</td><td>ד"ר גונן מירה</td><td>א</td><td>א 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">12</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027021-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1-תרגיל</td><td>מר לשנסקי מרק</td><td>א</td><td>א 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028521-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>גב' לוינגר חיה</td><td>א</td><td>א 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029021-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1 - תרגיל</td><td>גב' סרברו תמר</td><td>א</td><td>א 19:00 20:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028522-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>גב' לוינגר חיה</td><td>א</td><td>א 20:00 22:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027010-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1 מ</td><td>פרופ' שפירא דנה</td><td>א</td><td>ב 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">14</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027910-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים</td><td>ד"ר סגל הלוי דוד אראל</td><td>א</td><td>ב 09:00 13:00</td><td>ב</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027910-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים</td><td>פרופ' בן משה בועז</td><td>א</td><td>ב 09:00 13:00</td><td>ב</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027022-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1-תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ב 13:00 15:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">15</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027921-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים- תרגיל</td><td>מר ארליך יוסף אסף</td><td>א</td><td>ב 13:00 15:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028310-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב</td><td>ד"ר דובין רן</td><td>א</td><td>ב 15:00 18:00</td><td>ב</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028310-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב</td><td>ד"ר דביר עמית זאב</td><td>א</td><td>ב 15:00 18:00</td><td>ב</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027921-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים- תרגיל</td><td>מר ארליך יוסף אסף</td><td>א</td><td>ב 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028321-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב- תרגיל</td><td>מר סלוצקי ניב</td><td>א</td><td>ב 18:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028321-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב- תרגיל</td><td>גב' פרבר אנה</td><td>א</td><td>ב 18:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027921-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים- תרגיל</td><td>מר ארליך יוסף אסף</td><td>א</td><td>ב 19:00 21:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1</td><td>גב' איצקוביץ אליזבט</td><td>א</td><td>ג 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028510-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C</td><td>גב' סטרמן חרות</td><td>א</td><td>ג 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027022-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1-תרגיל</td><td>גב' גבסו יובל</td><td>א</td><td>ג 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027023-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1-תרגיל</td><td>מר חסון ניתאי</td><td>א</td><td>ג 13:00 15:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028521-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>מר סלוצקי ניב</td><td>א</td><td>ג 13:00 15:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">18</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028522-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>גב' סטרמן חרות</td><td>א</td><td>ג 13:00 15:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028510-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C</td><td>מר זגורי יוסי</td><td>א</td><td>ג 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028521-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>גב' לוינגר חיה</td><td>א</td><td>ג 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027010-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1</td><td>גב' איצקוביץ אליזבט</td><td>א</td><td>ג 17:00 20:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">15</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7016310-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חשבון אינפיניטסימלי 2</td><td>ד"ר צ'רניאבסקי יונה</td><td>א</td><td>ג 17:00 21:00</td><td>ב</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">41</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028721-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ג 19:00 20:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">24</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027021-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1-תרגיל</td><td>מר לשנסקי מרק</td><td>א</td><td>ג 20:00 22:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027022-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 1-תרגיל</td><td>מר כדראוי אור</td><td>א</td><td>ג 20:00 22:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028210-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2</td><td>ד"ר ניבש גבריאל</td><td>א</td><td>ד 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1</td><td>ד"ר גונן מירה</td><td>א</td><td>ד 10:00 12:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">21</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028221-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2- תרגיל</td><td>מר לפיד מנחם</td><td>א</td><td>ד 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028222-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2- תרגיל</td><td>גב' סבתו יעל</td><td>א</td><td>ד 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028223-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2- תרגיל</td><td>מר פורמן יבגני</td><td>א</td><td>ד 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029010-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1</td><td>ד"ר גונן מירה</td><td>א</td><td>ד 14:00 16:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב</td><td>ד"ר דביר עמית זאב</td><td>א</td><td>ד 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029021-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1- תרגיל</td><td>גב' סרברו תמר</td><td>א</td><td>ד 16:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029021-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ד 16:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028321-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב- תרגיל</td><td>גב' פרבר אנה</td><td>א</td><td>ד 17:00 18:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028322-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תקשורת ומחשוב- תרגיל</td><td>מר ציון יהונתן</td><td>א</td><td>ד 18:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים</td><td>ד"ר לביא אודי</td><td>א</td><td>ה 09:00 13:00</td><td>ב</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027910-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים</td><td>ד"ר סגל הלוי דוד אראל</td><td>א</td><td>ה 09:00 13:00</td><td>ב</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027922-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים- תרגיל</td><td>גב' מרבלי רויטל</td><td>א</td><td>ה 13:00 15:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">16</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029022-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 1- תרגיל</td><td>מר מור דורון</td><td>א</td><td>ה 15:00 16:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027921-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא לתכנות מונחה עצמים- תרגיל</td><td>גב' מרבלי רויטל</td><td>א</td><td>ה 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028210-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2</td><td>ד"ר ניבש גבריאל</td><td>א</td><td>ה 17:00 20:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">20</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028221-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2- תרגיל</td><td>מר קליינר לב</td><td>א</td><td>ה 20:00 22:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028222-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2- תרגיל</td><td>מר לפיד מנחם</td><td>א</td><td>ה 20:00 22:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028223-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגברה לינארית 2- תרגיל</td><td>מר פורמן יבגני</td><td>א</td><td>ה 20:00 22:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">19</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028510-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C</td><td>מר זגורי יוסי</td><td>א</td><td>ו 08:00 11:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028521-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבוא למחשבים ושפת C- תרגיל</td><td>גב' סטרמן חרות</td><td>א</td><td>ו 11:00 13:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028710-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2</td><td>ד"ר פסקין צ'רניאבסקי ענת</td><td>ב</td><td>א 09:00 11:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">34</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027110-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2 מ</td><td>ד"ר סגל הלוי דוד אראל</td><td>ב</td><td>א 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">25</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028722-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2- תרגיל</td><td>גב' סרברו תמר</td><td>ב</td><td>א 11:00 12:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027121-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2-תרגיל</td><td>מר מאיר אורי</td><td>ב</td><td>א 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029110-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה </td><td>ד"ר חורב אלעד</td><td>ב</td><td>א 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029122-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>א 19:00 20:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה </td><td>ד"ר חורב אלעד</td><td>ב</td><td>ב 09:00 11:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029121-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ב 11:00 12:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029122-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה- תרגיל</td><td>מר יעקוביאן מאיר</td><td>ב</td><td>ב 11:00 12:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029221-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' שטקל אביגיל</td><td>ב</td><td>ב 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029222-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' לוינגר חיה</td><td>ב</td><td>ב 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027810-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++</td><td>גב' סטרמן חרות</td><td>ב</td><td>ב 12:00 15:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">9</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029210-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים</td><td>גב' שקרון מירב</td><td>ב</td><td>ב 12:00 15:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027821-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר יעקוביאן מאיר</td><td>ב</td><td>ב 15:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027822-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר לוי מעתוק עוז</td><td>ב</td><td>ב 15:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029221-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' לוינגר חיה</td><td>ב</td><td>ב 15:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029222-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' ניבש קרן</td><td>ב</td><td>ב 15:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027110-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2</td><td>גב' איצקוביץ אליזבט</td><td>ב</td><td>ג 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027810-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++</td><td>גב' סטרמן חרות</td><td>ב</td><td>ג 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027121-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2-תרגיל</td><td>מר לשנסקי מרק</td><td>ב</td><td>ג 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027122-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2-תרגיל</td><td>מר חסון ניתאי</td><td>ב</td><td>ג 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027821-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר יעקוביאן מאיר</td><td>ב</td><td>ג 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027822-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>גב' סטרמן חרות</td><td>ב</td><td>ג 12:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027110-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2</td><td>גב' איצקוביץ אליזבט</td><td>ב</td><td>ג 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">11</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027810-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++</td><td>ד"ר סגל הלוי דוד אראל</td><td>ב</td><td>ג 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ג 16:00 17:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017110-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים</td><td>ד"ר יוזביץ רועי</td><td>ב</td><td>ג 16:00 18:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027121-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2-תרגיל</td><td>מר לשנסקי מרק</td><td>ב</td><td>ג 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027122-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2-תרגיל</td><td>מר כדראוי אור</td><td>ב</td><td>ג 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027821-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ג 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027822-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר יטיב אריה</td><td>ב</td><td>ג 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017121-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר פלקסין אהוד</td><td>ב</td><td>ג 18:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7017122-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">ארכיטקטורה של מחשבים- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ג 18:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028710-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2</td><td>מר כדראוי אור</td><td>ב</td><td>ד 09:00 11:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029210-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים</td><td>ד"ר עזריה עמוס יהודה</td><td>ב</td><td>ד 09:00 12:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">17</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028722-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2- תרגיל</td><td>מר כדראוי אור</td><td>ב</td><td>ד 11:00 12:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1</td><td>פרופ' חפץ דן</td><td>ב</td><td>ד 11:00 13:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">12</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028422-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1-תרגיל</td><td>מר יעקוביאן מאיר</td><td>ב</td><td>ד 13:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028423-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1-תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ד 13:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028421-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1-תרגיל</td><td>מר אלון  בר</td><td>ב</td><td>ד 13:00 14:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027810-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++</td><td>ד"ר סגל הלוי דוד אראל</td><td>ב</td><td>ד 14:00 17:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028721-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2- תרגיל</td><td>גב' סרברו תמר</td><td>ב</td><td>ד 15:00 16:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028710-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2</td><td>ד"ר פסקין צ'רניאבסקי ענת</td><td>ב</td><td>ד 15:00 17:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">6</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029210-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים</td><td>ד"ר עזריה עמוס יהודה</td><td>ב</td><td>ד 16:00 19:00</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">8</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028721-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2- תרגיל</td><td>מר כדראוי אור</td><td>ב</td><td>ד 17:00 18:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028722-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ד 17:00 18:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027821-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר יטיב אריה</td><td>ב</td><td>ד 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027822-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה זכרון ושפת C++ - תרגיל</td><td>מר יעקוביאן מאיר</td><td>ב</td><td>ד 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029221-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' לוינגר חיה</td><td>ב</td><td>ד 19:00 21:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029222-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' ניבש קרן</td><td>ב</td><td>ד 19:00 21:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028410-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1</td><td>פרופ' חפץ דן</td><td>ב</td><td>ה 17:00 19:00</td><td>ב</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028421-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ה 19:00 20:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028422-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">הסתברות למדעי המחשב 1-תרגיל</td><td>מר אלון  בר</td><td>ב</td><td>ה 19:00 20:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029210-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים</td><td>גב' שקרון מירב</td><td>ק</td><td>א 17:00 21:30</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">14</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027110-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2</td><td>גב' איצקוביץ אליזבט</td><td>ק</td><td>ג 17:00 21:30</td><td>ב</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2.5</td><td style="mso-number-format:0;">39</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7027121-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אלגוריתמים 2-תרגיל</td><td>מר לשנסקי מרק</td><td>ק</td><td>ה 16:00 19:00</td><td>ב</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">9</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037010-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה תוכנה</td><td>גב' שקרון מירב</td><td>א</td><td>א 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037022-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה תוכנה- תרגיל</td><td>גב' שטקל אביגיל</td><td>א</td><td>א 13:00 14:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037010-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה תוכנה</td><td>גב' שקרון מירב</td><td>א</td><td>ב 12:00 15:00</td><td>ג</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">2</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036910-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סמינר כללי במדעי המחשב</td><td>ד"ר חורב אלעד</td><td>א</td><td>ב 14:00 16:00</td><td>ג</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7038410-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות מבוזרות</td><td>פרופ' חפץ דן</td><td>א</td><td>ב 15:00 17:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">12</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7038422-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות מבוזרות- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ב 19:00 20:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037310-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תכנות מתקדם ושפת C++</td><td>ד"ר בן ניסן  מרים</td><td>א</td><td>ג 14:00 18:00</td><td>ג</td><td style="mso-number-format:0;">05.00</td><td style="mso-number-format:0;">3</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7038421-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות מבוזרות- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ג 16:00 17:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7028710-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">אוטומטים ושפות פורמליות 2</td><td>ד"ר פסקין צ'רניאבסקי ענת</td><td>א</td><td>ג 17:00 19:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">17</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037321-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תכנות מתקדם ושפת C++ - תרגיל</td><td>מר יעקוביאן מאיר</td><td>א</td><td>ג 18:00 20:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037322-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">תכנות מתקדם ושפת C++ - תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ג 18:00 20:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037021-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה תוכנה- תרגיל</td><td>גב' שטקל אביגיל</td><td>א</td><td>ג 20:00 21:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7038410-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות מבוזרות</td><td>פרופ' חפץ דן</td><td>א</td><td>ד 09:00 11:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7038421-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות מבוזרות- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ד 12:00 13:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029110-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה </td><td>ד"ר ויסברג פנחס</td><td>א</td><td>ד 12:00 14:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7037021-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מבנה תוכנה- תרגיל</td><td>גב' שטקל אביגיל</td><td>א</td><td>ד 13:00 14:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029122-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות הפעלה- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ד 14:00 15:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7038422-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מערכות מבוזרות- תרגיל</td><td>מר לוי גיל</td><td>א</td><td>ה 09:00 10:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">11</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036010-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות</td><td>ד"ר עמרי ערן</td><td>ב</td><td>ד 09:00 11:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">12</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7035910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חישוביות</td><td>ד"ר פסקין צ'רניאבסקי ענת</td><td>ב</td><td>ד 09:00 12:00</td><td>ג</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036021-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>מר ארליך יוסף אסף</td><td>ב</td><td>ד 11:00 12:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036010-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות</td><td>ד"ר עמרי ערן</td><td>ב</td><td>ד 11:00 13:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">18</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7035921-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חישוביות- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ד 12:00 13:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7035922-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חישוביות- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ד 12:00 13:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036021-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>מר ארליך יוסף אסף</td><td>ב</td><td>ד 13:00 14:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036910-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סמינר כללי במדעי המחשב</td><td>פרופ' מנביץ לרי</td><td>ב</td><td>ד 15:00 17:00</td><td>ג</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036010-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות</td><td>ד"ר עמרי ערן</td><td>ב</td><td>ה 09:00 11:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036021-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>מר ארליך יוסף אסף</td><td>ב</td><td>ה 11:00 12:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036022-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>גב' עוזרי שירה</td><td>ב</td><td>ה 11:00 12:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7035910-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חישוביות</td><td>ד"ר פסקין צ'רניאבסקי ענת</td><td>ב</td><td>ה 11:00 14:00</td><td>ג</td><td style="mso-number-format:0;">03.50</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">10</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7035921-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חישוביות- תרגיל</td><td>מר מור דורון</td><td>ב</td><td>ה 14:00 15:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">3</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7035922-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">חישוביות- תרגיל</td><td>מר לוי גיל</td><td>ב</td><td>ה 14:00 15:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">7</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036910-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סמינר כללי במדעי המחשב</td><td>פרופ' חפץ דן</td><td>ב</td><td>ה 15:00 17:00</td><td>ג</td><td style="mso-number-format:0;">02.00</td><td style="mso-number-format:0;">1</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036021-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>מר ארליך יוסף אסף</td><td>ב</td><td>ה 17:00 18:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036022-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>גב' עוזרי שירה</td><td>ב</td><td>ה 17:00 18:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">5</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036010-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות</td><td>ד"ר עמרי ערן</td><td>ב</td><td>ה 17:00 19:00</td><td>ג</td><td style="mso-number-format:0;">02.50</td><td style="mso-number-format:0;">1.5</td><td style="mso-number-format:0;">14</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7036021-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">שפות תכנות-תרגיל</td><td>גב' עוזרי שירה</td><td>ב</td><td>ה 19:00 20:00</td><td>ג</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-1</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>מר טרם נקבע </td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-10</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>ד"ר אופיר דן</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">0</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-11</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>ד"ר עזריה עמוס יהודה</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">1</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-12</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>מר גרסטל יהודה</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">27</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-13</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>ד"ר חורב אלעד</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">29</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-2</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>ד"ר דביר עמית זאב</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">4</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-3</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>ד"ר פסקין צ'רניאבסקי ענת</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">26</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-4</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>ד"ר גוטליב ליעד</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">24</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>גב' איצקוביץ אליזבט</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">25</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-6</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>פרופ' חפץ דן</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">28</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-7</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>פרופ' שפירא דנה</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">19</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-8</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>פרופ' בן משה בועז</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">27</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7030310-9</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">סדנא לפרויקטים</td><td>מר זגורי יוסי</td><td>ש</td><td>  </td><td>ג</td><td style="mso-number-format:0;">04.00</td><td style="mso-number-format:0;">2</td><td style="mso-number-format:0;">22</td>
+	</tr><tr>
+		<td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>7029221-5</td><td class=" GridCell_BackColor_0 GridCell_ForeColor_0" colspan="1" style="font-weight:normal;vertical-align:middle;">מסדי נתונים-תרגיל</td><td>גב' שטקל אביגיל</td><td>ב</td><td>ד 12:00 14:00</td><td>רב שנתי</td><td style="mso-number-format:0;">00.00</td><td style="mso-number-format:0;">0</td><td style="mso-number-format:0;">10</td>
+	</tr>
+	</tbody>
+
+</table></body></html>
