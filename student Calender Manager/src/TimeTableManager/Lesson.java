@@ -16,4 +16,10 @@ public class Lesson extends Event {
 		return 0;
 	}
 
+	@Override
+	public int compareTo(Event otherEvent) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
