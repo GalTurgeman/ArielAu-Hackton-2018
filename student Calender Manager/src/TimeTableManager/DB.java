@@ -46,8 +46,9 @@ public class DB {
                 int Result = r.nextInt(High-Low) + Low;
 
                 Event newEvent = similarEvents.get(Result);
-
+                randomSchedule.swapEvent(event, newEvent);
             }
         }
+        return randomSchedule;
     }
 }

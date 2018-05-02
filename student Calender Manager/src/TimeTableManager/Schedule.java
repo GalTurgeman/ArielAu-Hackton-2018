@@ -34,9 +34,12 @@ public class Schedule implements Comparable<Schedule> {
 
 
 		private void calcGrade() {
-		for(Restriction restriction : _restrictions) {
-			grade += restriction.calcGrade();
-		}
+	    if (_restrictions != null) {
+            for (Restriction restriction : _restrictions) {
+                grade += restriction.calcGrade();
+            }
+        }
+        else grade = 100;
 	}
 
 	public void swapEvent(Event toSearchAndRemove, Event toReplace) {
