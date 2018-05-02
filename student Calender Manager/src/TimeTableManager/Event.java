@@ -1,11 +1,35 @@
 package TimeTableManager;
 
-import java.util.ArrayList;
 
-public abstract class Event {
-	public ArrayList<TimePeriod> _instance = new ArrayList<>();
-	public String _name;
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+
+public abstract class Event implements Comparable<Event> {
+
+	private String _name;
+	private simpleTime _startTime;
+	private simpleTime _endTime;
+
+	public Event(String name, simpleTime startTime, simpleTime endTime) {
+		this._name = name;
+		_startTime = new simpleTime(startTime.get_hours(), startTime.get_minutes());
+		_endTime = new simpleTime(endTime.get_hours(), endTime.get_minutes());
+	}
+
+	public static boolean doEventsCollide(Event a, Event b) {
+		 boolean AStartsInB = a._startTime.isAfter(b._startTime) && a._startTime.isBefore(b._endTime);
+		 boolean AEndsInB = a._endTime.isAfter(b._startTime) && a._endTime.isBefore(b._endTime);
+		 boolean BStartsInA = b._startTime.isAfter(a._startTime) && b._startTime.isBefore(a._endTime);
+		 boolean BEndsInA = b._endTime.isAfter(a._startTime) && b._endTime.isBefore(a._endTime);
+		 
+		 return AStartsInB || AEndsInB || BStartsInA || BEndsInA;
+	}
 	
 	abstract public String toIcal();
 	abstract double calcGrade();
+	abstract boolean betterEvent(Event other);
+
+	@Override
+	abstract public int compareTo(Event otherEvent);
 }
