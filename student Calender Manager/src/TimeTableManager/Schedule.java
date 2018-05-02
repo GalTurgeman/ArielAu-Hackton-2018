@@ -36,7 +36,7 @@ public class Schedule implements Comparable<Schedule> {
 		}
 	}
 
-	public ArrayList<Event> getAllevents() {
+	public ArrayList<Event> getAllEvents() {
 		ArrayList<Event> ans = new ArrayList<>();
 		for (PriorityQueue<Event> day : _table) {
 			for (Event event : day) {
