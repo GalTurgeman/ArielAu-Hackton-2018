@@ -52,29 +52,61 @@ public class ExcelReader {
 				cells.next();
 				cells.next();
 				cells.next();
-				while (cells.hasNext()) {
+				cell=(XSSFCell) cells.next();
+				if(cell.getStringCellValue() != null) {
+					lesson._courseID = cell.getStringCellValue();
 					cell=(XSSFCell) cells.next();
-					if(cell.getStringCellValue() != null) {
-						lesson._courseID = cell.getStringCellValue();
-						cell=(XSSFCell) cells.next();
-						lesson.set_name(cell.getStringCellValue());
+					lesson.set_name(cell.getStringCellValue());
+					cell=(XSSFCell) cells.next();
+					lesson._lecturer = cell.getStringCellValue();
+					cell=(XSSFCell) cells.next();
+					cell=(XSSFCell) cells.next();
+					String s = cell.getStringCellValue();
+					if(s.length() != 0)
+						lesson.set_day(s.charAt(0) - 'à' + 1);
+					else {
+						lesson.set_day(1);
 					}
-
+					if(s.length() > 1) {
+						lesson.set_startTime(new simpleTime(Integer.parseInt(s.substring(2, 4)), 0));
+						lesson.set_endTime(new simpleTime(Integer.parseInt(s.substring(8, 10)), 0));
+					}
+					else {
+						lesson.set_startTime(new simpleTime(0, 23));
+						lesson.set_endTime(new simpleTime(0, 23));
+					}
+					cells.next();
+					cell=(XSSFCell) cells.next();
+					lesson._points = cell.getNumericCellValue();
+					boolean flag = false;
+					for(ArrayList<Event> lessons : ret) {
+						if(lessons.get(0).get_name() == lesson.get_name()) {
+							lessons.add(lesson);
+							flag = true;
+							break;
+						}
+					}
+					if(!flag) {
+						ArrayList<Event> arrayList = new ArrayList<Event>();
+						arrayList.add(lesson);
+						ret.add(arrayList);
+					}
 				}
-			}
-			for(int i = 0; i < ret.length; i++) {
-				System.out.print("[ ");
-				for(int j = 0; j < ret[i].length; j++) {
-					System.out.print("[" + ret[i][j] + "]");
-				}
-				System.out.println("]");
 			}
 			wb.close();
+
+			//			for(ArrayList<Event> list : ret) {
+			//				System.out.print("[ ");
+			//				for(Event lesson : list) {
+			//					System.out.print(lesson.toString());
+			//				}
+			//				System.out.println(" ]");
+			//			}
+			return ret;
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
 		return null;
 	}
 

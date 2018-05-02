@@ -11,6 +11,10 @@ public class Lesson extends Event {
 		this._points = points;
 	}
 	
+	public String toString() {
+		return "(" + super.get_name() + ", " + super.get_day() + ", " + super.get_startTime() + ", " + super.get_endTime() + " )";
+	}
+	
 	@Override
 	public String toIcal() {
 		// TODO Auto-generated method stub
