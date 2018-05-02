@@ -14,7 +14,7 @@ public class TableExample {
 		f.add(sp);          
 		f.setSize(600,500);    
 		f.setVisible(true);    
-	}     
+	}     //
 	public static void main(String[] args) {    
 		    new TableExample();
 	}    

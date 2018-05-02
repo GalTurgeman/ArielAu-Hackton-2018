@@ -9,7 +9,10 @@ import java.awt.Panel;
 import java.awt.BorderLayout;
 import java.awt.Button;
 import javax.swing.JButton;
+import javax.swing.JFileChooser;
+
 import java.awt.event.ActionListener;
+import java.io.File;
 import java.awt.event.ActionEvent;
 import java.awt.Font;
 import javax.swing.JSeparator;
@@ -20,6 +23,7 @@ import java.awt.Color;
 import java.awt.Container;
 
 import javax.swing.JTable;
+import javax.swing.filechooser.FileNameExtensionFilter;
 import javax.swing.table.DefaultTableModel;
 
 import java.awt.TextField;
@@ -64,6 +68,17 @@ public class GUI {
 		frame.getContentPane().setLayout(null);
 		
 		JButton btnImportFile = new JButton("Import File");
+		btnImportFile.addActionListener(new ActionListener() {
+			public void actionPerformed(ActionEvent e) {
+				JFileChooser jfc;
+				jfc = new JFileChooser();     
+				File f = new File(System.getProperty("user.dir"));
+				jfc.setCurrentDirectory(f);
+				jfc.setFileSelectionMode(JFileChooser.FILES_ONLY);
+				jfc.setFileFilter(new FileNameExtensionFilter("xlsx Files only", "xlsx","XLSX"));
+				jfc.showOpenDialog(btnImportFile);
+			}
+		});
 		btnImportFile.setFont(new Font("Tahoma", Font.PLAIN, 12));
 		btnImportFile.setBounds(6, 6, 117, 29);
 		frame.getContentPane().add(btnImportFile);
@@ -88,7 +103,7 @@ public class GUI {
 		});
 		btnClear.setBounds(6, 196, 117, 29);
 		frame.getContentPane().add(btnClear);
-		
+		//
 		JButton btnExit = new JButton("Exit");
 		btnExit.addActionListener(new ActionListener() {
 			
